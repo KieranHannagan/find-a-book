@@ -14,7 +14,7 @@
   * [Email](#email)
   
   ## Installation 
-  To install, simply clone the repository into your bash or shell, and run an `npm install` to download the required dependencies and `npm run develop`. You will then be ready to use the Team Generated!
+  To install, simply clone the repository into your bash or shell, and run an `npm install` to download the required dependencies, `npm run build` and `npm run develop`. You will then be ready to use the book finder!
   
   ## Usage 
   
